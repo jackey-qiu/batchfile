@@ -1,4 +1,5 @@
-gp_O1O8.,gp_O2O7.,gp_O3O10.,gp_O4O9.,gp_Fe4Fe12.,gp_Fe6Fe10.,gp_O5O12.,gp_O6O11.;setdx,setdy,setdz;True;[-0.2,0.2]_[-0.2,0.2]_[-0.2,0.2]
+gp_O1O8.,gp_O2O7.,gp_O3O10.,gp_O4O9.,gp_Fe4Fe12.,gp_Fe6Fe10.,gp_O5O12.,gp_O6O11.;setdx,setdy;True;[-0.2,0.2]_[-0.2,0.2]
+gp_O1O2_O7O8.,gp_O3O4_O9O10.,gp_O5O6_O11O12.,gp_Fe4Fe6_Fe10Fe12.;setdz;True;[-0.2,0.2]
 gp_Pb1.set;oc,u;True;[0,1]_[0.4,5]
 gp_HO1.set;oc,u;True;[0,1]_[0.4,10]
 gp_HO2.set;oc,u;True;[0,1]_[0.4,10]
