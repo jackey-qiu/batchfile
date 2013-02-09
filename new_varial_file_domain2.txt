@@ -1,2 +1,8 @@
 ##
 wt,1.,*
+top_angle,1.,*
+phi,0.,*
+r,2.25,*
+scale_factor,1.,*
+dx,0.,*
+dy,0.,*
