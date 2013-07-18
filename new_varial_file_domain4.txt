@@ -1,0 +1,26 @@
+##############domain weight value##################
+wt,1.,*
+############p4 symmetry for the top two oxygen layer(unique in each domain so no tag)##########
+scale_factor,1.,*
+theta,0.,*
+############pars for sorbates (pb or OH)##################
+top_angle,1.,*
+top_angle_1,1.,*
+top_angle_2,1.,*
+phi,0.,*
+phi_1,0.,*
+phi_2,0.,*
+r,2.25,*
+r_1,2.25,*
+r_2,2.25,*
+############pars for water layers (tag "_1" means the first water layer)##############
+r_water_pair_1,1.5,*
+alpha_water_pair_1,0,*
+ref_pt_water_pair_x_1,0.5,*
+ref_pt_water_pair_y_1,0.5,*
+ref_pt_water_pair_z_1,2.5,*
+############other pars#########################
+scale_factor_1,1.,*
+scale_factor_2,1.,*
+dx,0.,*
+dy,0.,*
