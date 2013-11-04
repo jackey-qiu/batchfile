@@ -5,8 +5,8 @@ scale_factor,1.,*
 theta,0.,*
 ############pars for sorbates (pb or OH)##################
 top_angle,1.,*
-top_angle_1,1.,*
-top_angle_2,1.,*
+top_angle1_1,1.,*
+top_angle1_2,1.,*
 phi,0.,*
 phi_1,0.,*
 phi_2,0.,*
